@@ -10,7 +10,7 @@ import MessageComponent from '../components/shared/MessageComponent';
 
 const user = {
     _id: "sdfssdfsdf",
-    name: "Remal Fatima"
+    name: "Muhammad Abdullah"
 }
 
 const Chat = () => {
